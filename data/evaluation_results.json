@@ -1,0 +1,281 @@
+{
+    "correct": 4,
+    "incorrect": 55,
+    "details": [
+        {
+            "prompt": "<s>[INST] 1 es igual a [/INST]",
+            "generated_text": "[INST] 1 es igual a [/INST] uno más uno más tres más uno más dos más tres más uno más cuatro más uno ",
+            "difference": 16
+        },
+        {
+            "prompt": "<s>[INST] 2 es igual a [/INST]",
+            "generated_text": "[INST] 2 es igual a [/INST] tres más uno más uno más uno más uno más uno más uno más uno más uno ",
+            "difference": 9
+        },
+        {
+            "prompt": "<s>[INST] 3 es igual a [/INST]",
+            "generated_text": "[INST] 3 es igual a [/INST] seis más uno más uno más cuatro más uno más uno ",
+            "difference": 11
+        },
+        {
+            "prompt": "<s>[INST] 4 es igual a [/INST]",
+            "generated_text": "[INST] 4 es igual a [/INST] uno más dos más uno más uno ",
+            "difference": 1
+        },
+        {
+            "prompt": "<s>[INST] 8 es igual a [/INST]",
+            "generated_text": "[INST] 8 es igual a [/INST] tres más cuatro más uno más uno ",
+            "difference": 1
+        },
+        {
+            "prompt": "<s>[INST] 51 es igual a [/INST]",
+            "generated_text": "[INST] 51 es igual a [/INST] uno más nueve más nueve más dos más cinco más ocho más cinco más cuatro más tres más uno más tres ",
+            "difference": 1
+        },
+        {
+            "prompt": "<s>[INST] 52 es igual a [/INST]",
+            "generated_text": "[INST] 52 es igual a [/INST] uno más nueve más tres más cuatro más dos más tres más uno más ocho más dos más cuatro más dos ",
+            "difference": 13
+        },
+        {
+            "prompt": "<s>[INST] 53 es igual a [/INST]",
+            "generated_text": "[INST] 53 es igual a [/INST] dos más dos más cinco más tres más dos más siete más cinco más siete más dos más tres más dos más dos ",
+            "difference": 11
+        },
+        {
+            "prompt": "<s>[INST] 54 es igual a [/INST]",
+            "generated_text": "[INST] 54 es igual a [/INST] uno más nueve más siete más cinco más cuatro más seis más ocho más seis ",
+            "difference": 8
+        },
+        {
+            "prompt": "<s>[INST] 55 es igual a [/INST]",
+            "generated_text": "[INST] 55 es igual a [/INST] uno más nueve más nueve más dos más cinco más ocho más cinco más cuatro más tres más uno más tres ",
+            "difference": 5
+        },
+        {
+            "prompt": "<s>[INST] 56 es igual a [/INST]",
+            "generated_text": "[INST] 56 es igual a [/INST] uno más nueve más nueve más dos más cinco más ocho más cinco más cuatro más tres más uno más tres ",
+            "difference": 6
+        },
+        {
+            "prompt": "<s>[INST] 57 es igual a [/INST]",
+            "generated_text": "[INST] 57 es igual a [/INST] uno más nueve más nueve más dos más cinco más ocho más cinco más cuatro más tres más uno más tres ",
+            "difference": 7
+        },
+        {
+            "prompt": "<s>[INST] 58 es igual a [/INST]",
+            "generated_text": "[INST] 58 es igual a [/INST] uno más nueve más dos más cuatro más ocho más tres más dos más cuatro más cinco más nueve más dos más dos más uno ",
+            "difference": 6
+        },
+        {
+            "prompt": "<s>[INST] 59 es igual a [/INST]",
+            "generated_text": "[INST] 59 es igual a [/INST] uno más cinco más dos más cuatro más ocho más ocho más ocho más tres más dos más cuatro más uno ",
+            "difference": 13
+        },
+        {
+            "prompt": "<s>[INST] 60 es igual a [/INST]",
+            "generated_text": "[INST] 60 es igual a [/INST] tres más nueve más tres más ocho más cinco más ocho más dos más tres más uno ",
+            "difference": 18
+        },
+        {
+            "prompt": "<s>[INST] 61 es igual a [/INST]",
+            "generated_text": "[INST] 61 es igual a [/INST] uno más nueve más ocho más seis más tres más cinco más ocho más cuatro más tres más uno más uno ",
+            "difference": 12
+        },
+        {
+            "prompt": "<s>[INST] 62 es igual a [/INST]",
+            "generated_text": "[INST] 62 es igual a [/INST] uno más nueve más siete más cinco más seis más ocho más seis ",
+            "difference": 20
+        },
+        {
+            "prompt": "<s>[INST] 63 es igual a [/INST]",
+            "generated_text": "[INST] 63 es igual a [/INST] dos más dos más cinco más tres más dos más siete más cinco más cuatro más cinco más cuatro más dos más dos ",
+            "difference": 20
+        },
+        {
+            "prompt": "<s>[INST] 64 es igual a [/INST]",
+            "generated_text": "[INST] 64 es igual a [/INST] uno más nueve más tres más ocho más tres más cuatro más dos más nueve más uno ",
+            "difference": 24
+        },
+        {
+            "prompt": "<s>[INST] 65 es igual a [/INST]",
+            "generated_text": "[INST] 65 es igual a [/INST] uno más nueve más siete más seis más ocho más cinco más uno más nueve más uno más uno más uno ",
+            "difference": 16
+        },
+        {
+            "prompt": "<s>[INST] 66 es igual a [/INST]",
+            "generated_text": "[INST] 66 es igual a [/INST] nueve más dos más dos más ocho más tres más tres más ocho más dos más dos más dos ",
+            "difference": 25
+        },
+        {
+            "prompt": "<s>[INST] 67 es igual a [/INST]",
+            "generated_text": "[INST] 67 es igual a [/INST] uno más nueve más cinco más tres más seis más ocho más dos más cuatro más tres más uno más uno ",
+            "difference": 24
+        },
+        {
+            "prompt": "<s>[INST] 68 es igual a [/INST]",
+            "generated_text": "[INST] 68 es igual a [/INST] uno más nueve más dos más seis más ocho más tres más dos más cuatro más cinco más dos ",
+            "difference": 26
+        },
+        {
+            "prompt": "<s>[INST] 69 es igual a [/INST]",
+            "generated_text": "[INST] 69 es igual a [/INST] uno más nueve más tres más ocho más tres más dos más cuatro más uno más nueve más uno ",
+            "difference": 28
+        },
+        {
+            "prompt": "<s>[INST] 70 es igual a [/INST]",
+            "generated_text": "[INST] 70 es igual a [/INST] tres más nueve más cinco más siete más cuatro más cinco más nueve más tres más uno más uno ",
+            "difference": 23
+        },
+        {
+            "prompt": "<s>[INST] 71 es igual a [/INST]",
+            "generated_text": "[INST] 71 es igual a [/INST] uno más nueve más uno más ocho más seis más tres más dos más cuatro más uno más tres más uno más uno ",
+            "difference": 31
+        },
+        {
+            "prompt": "<s>[INST] 72 es igual a [/INST]",
+            "generated_text": "[INST] 72 es igual a [/INST] nueve más nueve más seis más ocho más cinco más cinco más uno más cuatro más uno más uno ",
+            "difference": 23
+        },
+        {
+            "prompt": "<s>[INST] 73 es igual a [/INST]",
+            "generated_text": "[INST] 73 es igual a [/INST] cinco más cinco más ocho más ocho más ocho más uno más uno más seis más uno más cinco ",
+            "difference": 25
+        },
+        {
+            "prompt": "<s>[INST] 74 es igual a [/INST]",
+            "generated_text": "[INST] 74 es igual a [/INST] tres más nueve más cinco más siete más cuatro más cinco más uno más nueve ",
+            "difference": 31
+        },
+        {
+            "prompt": "<s>[INST] 75 es igual a [/INST]",
+            "generated_text": "[INST] 75 es igual a [/INST] nueve más nueve más seis más ocho más cinco más cinco más uno más cuatro más uno más uno ",
+            "difference": 26
+        },
+        {
+            "prompt": "<s>[INST] 76 es igual a [/INST]",
+            "generated_text": "[INST] 76 es igual a [/INST] uno más nueve más siete más seis más ocho más cinco más cuatro más uno más tres ",
+            "difference": 32
+        },
+        {
+            "prompt": "<s>[INST] 77 es igual a [/INST]",
+            "generated_text": "[INST] 77 es igual a [/INST] nueve más dos más dos más ocho más tres más tres más ocho más dos más dos más dos ",
+            "difference": 36
+        },
+        {
+            "prompt": "<s>[INST] 78 es igual a [/INST]",
+            "generated_text": "[INST] 78 es igual a [/INST] uno más cinco más dos más cuatro más ocho más ocho más ocho más tres más dos más cuatro más uno ",
+            "difference": 32
+        },
+        {
+            "prompt": "<s>[INST] 79 es igual a [/INST]",
+            "generated_text": "[INST] 79 es igual a [/INST] uno más cinco más dos más cuatro más ocho más ocho más ocho más dos más cuatro más cinco más uno ",
+            "difference": 31
+        },
+        {
+            "prompt": "<s>[INST] 80 es igual a [/INST]",
+            "generated_text": "[INST] 80 es igual a [/INST] tres más tres más cuatro más cuatro más uno más siete más uno más cinco más siete más dos más tres ",
+            "difference": 40
+        },
+        {
+            "prompt": "<s>[INST] 81 es igual a [/INST]",
+            "generated_text": "[INST] 81 es igual a [/INST] seis más ocho más ocho más ocho más ocho más ocho más dos más uno ",
+            "difference": 32
+        },
+        {
+            "prompt": "<s>[INST] 82 es igual a [/INST]",
+            "generated_text": "[INST] 82 es igual a [/INST] cinco más tres más dos más cuatro más tres más uno más nueve más uno más uno más uno más uno más uno más uno ",
+            "difference": 49
+        },
+        {
+            "prompt": "<s>[INST] 83 es igual a [/INST]",
+            "generated_text": "[INST] 83 es igual a [/INST] cinco más tres más nueve más seis más uno más cinco más cuatro más tres más uno más tres ",
+            "difference": 43
+        },
+        {
+            "prompt": "<s>[INST] 84 es igual a [/INST]",
+            "generated_text": "[INST] 84 es igual a [/INST] uno más cinco más dos más cuatro más ocho más ocho más ocho más tres más dos más cuatro más uno ",
+            "difference": 38
+        },
+        {
+            "prompt": "<s>[INST] 85 es igual a [/INST]",
+            "generated_text": "[INST] 85 es igual a [/INST] uno más nueve más siete más seis más ocho más cinco más siete más uno más tres ",
+            "difference": 38
+        },
+        {
+            "prompt": "<s>[INST] 86 es igual a [/INST]",
+            "generated_text": "[INST] 86 es igual a [/INST] uno más cinco más dos más cuatro más ocho más ocho más ocho más tres más dos más cuatro más uno ",
+            "difference": 40
+        },
+        {
+            "prompt": "<s>[INST] 87 es igual a [/INST]",
+            "generated_text": "[INST] 87 es igual a [/INST] uno más cinco más dos más cuatro más ocho más ocho más ocho más tres más dos más cuatro más uno ",
+            "difference": 41
+        },
+        {
+            "prompt": "<s>[INST] 88 es igual a [/INST]",
+            "generated_text": "[INST] 88 es igual a [/INST] nueve más dos más dos más ocho más cinco más tres más nueve más cuatro más tres más dos más uno ",
+            "difference": 40
+        },
+        {
+            "prompt": "<s>[INST] 89 es igual a [/INST]",
+            "generated_text": "[INST] 89 es igual a [/INST] uno más cinco más dos más cuatro más ocho más ocho más ocho más tres más dos más cuatro más uno ",
+            "difference": 43
+        },
+        {
+            "prompt": "<s>[INST] 90 es igual a [/INST]",
+            "generated_text": "[INST] 90 es igual a [/INST] uno más nueve más nueve más dos más cinco más ocho más cinco más cuatro más tres más uno ",
+            "difference": 43
+        },
+        {
+            "prompt": "<s>[INST] 91 es igual a [/INST]",
+            "generated_text": "[INST] 91 es igual a [/INST] uno más siete más uno más seis más ocho más ocho más ocho más tres más dos ",
+            "difference": 47
+        },
+        {
+            "prompt": "<s>[INST] 92 es igual a [/INST]",
+            "generated_text": "[INST] 92 es igual a [/INST] uno más cinco más tres más seis más ocho más ocho más ocho más dos más uno más uno ",
+            "difference": 49
+        },
+        {
+            "prompt": "<s>[INST] 93 es igual a [/INST]",
+            "generated_text": "[INST] 93 es igual a [/INST] cinco más cinco más nueve más siete más seis más seis más siete más dos más uno ",
+            "difference": 45
+        },
+        {
+            "prompt": "<s>[INST] 94 es igual a [/INST]",
+            "generated_text": "[INST] 94 es igual a [/INST] uno más cinco más tres más seis más ocho más ocho más ocho más dos más uno más uno ",
+            "difference": 51
+        },
+        {
+            "prompt": "<s>[INST] 95 es igual a [/INST]",
+            "generated_text": "[INST] 95 es igual a [/INST] uno más cuatro más ocho más tres más uno más nueve más dos más cuatro más cinco más tres ",
+            "difference": 55
+        },
+        {
+            "prompt": "<s>[INST] 96 es igual a [/INST]",
+            "generated_text": "[INST] 96 es igual a [/INST] uno más cinco más tres más seis más ocho más ocho más ocho más dos más uno más uno ",
+            "difference": 53
+        },
+        {
+            "prompt": "<s>[INST] 97 es igual a [/INST]",
+            "generated_text": "[INST] 97 es igual a [/INST] uno más cinco más dos más cuatro más ocho más ocho más ocho más tres más dos más cuatro más uno ",
+            "difference": 51
+        },
+        {
+            "prompt": "<s>[INST] 98 es igual a [/INST]",
+            "generated_text": "[INST] 98 es igual a [/INST] uno más nueve más dos más ocho más cinco más ocho más cuatro más tres más uno más uno ",
+            "difference": 56
+        },
+        {
+            "prompt": "<s>[INST] 99 es igual a [/INST]",
+            "generated_text": "[INST] 99 es igual a [/INST] uno más nueve más nueve más dos más tres más ocho más tres más dos más cuatro más cinco más dos ",
+            "difference": 51
+        },
+        {
+            "prompt": "<s>[INST] 100 es igual a [/INST]",
+            "generated_text": "[INST] 100 es igual a [/INST] uno más nueve más nueve más dos más ocho más ocho más dos más siete más siete ",
+            "difference": 47
+        }
+    ]
+}
